@@ -1,4 +1,4 @@
-<h1 align="center"> NoteHub </h1>
+<h1 align="center"> NoteHub-Back </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="NoteHub" src="./.github/preview.png" width="100%">
+  <img alt="NoteHub-Back" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
