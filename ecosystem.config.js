@@ -8,7 +8,6 @@ module.exports = {
     },
     env_production: {
       NODE_ENV: "production",
-      PRE_SCRIPT: "knex migrate:latest",
     }
   }]
 }

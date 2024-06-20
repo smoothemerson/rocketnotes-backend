@@ -4,7 +4,7 @@
   "description": "API desenvolvida no programa Explorer do Rocketseat.",
   "main": "index.js",
   "scripts": {
-    "start": "knex migrate:latest && pm2-runtime start ecosystem.config.js --env production",
+    "start": "pm2-runtime start ecosystem.config.js --env production",
     "dev": "node --watch ./src/server.js",
     "migrate": "knex migrate:latest"
   },
