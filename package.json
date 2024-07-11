@@ -7,7 +7,7 @@
     "start": "pm2-runtime start ecosystem.config.js --env production",
     "dev": "node --watch ./src/server.js",
     "migrate": "knex migrate:latest",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "author": "Emerson Rocha",
   "license": "ISC",
